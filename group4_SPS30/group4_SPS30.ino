@@ -76,7 +76,7 @@ void blinkFast(uint8_t cnt){
 }
 
 void setup(){
-  Serial.begin(115200);while(!Serial){delay(10);}
+  Serial.begin(115200);
   pinMode(LED,OUTPUT);
   pinMode(SD_CS,OUTPUT);digitalWrite(SD_CS,HIGH);delay(100);
   Wire.begin();delay(100);
