@@ -181,15 +181,5 @@ print(f"Mean F (PM2.5) = {merged['F'].mean():.3f} ± {merged['F'].std():.3f}")
 
 ---
 
-## Key Background References
-
-1. Satish, U. et al. (2012). "Is CO2 an Indoor Pollutant?" *Environ. Health Perspect.* 120(12):1671–7.
-2. Chen, C. et al. (2023). "Indoor PM2.5 infiltration factors in 3977 homes globally." *PNAS* 120(12):e2217953120.
-3. WHO (2021). *Global Air Quality Guidelines.* WHO Press, Geneva.
-4. Sensirion SCD41 Application Note — Field Calibration and Self-Calibration.
-5. Hoek, G. et al. (2011). "Long-term air pollution exposure and cardio-respiratory mortality." *Environ. Health* 10:45.
-
----
-
 *Contact: [matpierp@pg.edu.pl]*  
 *GitHub: [https://github.com/piermatt/]*
