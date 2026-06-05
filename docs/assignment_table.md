@@ -1,9 +1,5 @@
 # Lab Assignment Table — Low-Cost Air Quality Sensing
 
-**Date:** ________________  
-**Duration:** 2 hours  
-**Each group:** 2–3 students
-
 ---
 
 ## Group 1 — ENS160 + AHT21 (MOX eCO₂ / TVOC, Indoor CO₂ comparison)
